@@ -7,3 +7,10 @@
 ``` javascript
 let prin135 = "Web Systems and Technologies";
 ```
+
+#### Activity Checklist
+- [x] Assignment 01
+- [x] Assignment 02
+- [x] Attendance
+- [x] Practice Code
+- [x] Github
